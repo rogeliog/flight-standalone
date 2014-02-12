@@ -1,0 +1,20 @@
+{
+  "name": "flight-standalone",
+  "version": "0.0.0",
+  "authors": [
+    "Rogelio Guzman <chinog9@gmail.com>"
+  ],
+  "description": "Twitter Flight standalone version",
+  "keywords": [
+    "flight"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.github.com/rogeliog/flight-standalone",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
