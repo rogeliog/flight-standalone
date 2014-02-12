@@ -1,6 +1,7 @@
 {
   "name": "flight-standalone",
   "version": "0.0.0",
+  "main": "lib/flight.js",
   "authors": [
     "Rogelio Guzman <chinog9@gmail.com>"
   ],
